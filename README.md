@@ -2,7 +2,7 @@
 
 ## Background
 * Disclaimer: This repository is covering a part of project [**iSee iSpeak**](https://www.ischool.berkeley.edu/projects/2017/iseeispeak). 
-* iSee iSpeak is an intelligent image-based communication system for nonverbal children. In essense, it is a machine translator from written English to pictogram. Pictogram language is widely used in speech therapy. For example, pictogram can help children with ASD (Autism Spectrum Disorders), who have verbal challenges, to communicate visually. This is where team iSeeiSpeak started.
+* iSee iSpeak is an intelligent image-based communication system for nonverbal children. In essence, it is a machine translator from written English to pictogram. Pictogram language is widely used in speech therapy. For example, pictogram can help children with ASD (Autism Spectrum Disorders), who have verbal challenges, to communicate visually. This is where team iSeeiSpeak started.
 
 ## What is iSeeiSpeak?
 iSee iSpeak is a project name as well as the product name. Our team is trying to help non-verbal children to communicate verbally with pictures. We use a specifc school of pictures, called [PECS (Picture Exchange Communication System)](http://www.pecs.com/). Using PECS images, a caretaker can input a sentence to iSeeiSpeak, which it will translate into picrtures, and then presented to a child with ASD.
